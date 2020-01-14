@@ -3,3 +3,4 @@ node_js:
   - '11'
 script:
   - npm run coveralls
+os: osx
